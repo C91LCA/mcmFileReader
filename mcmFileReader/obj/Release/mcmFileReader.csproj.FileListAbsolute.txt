@@ -1,8 +1,0 @@
-C:\Users\Andrey\documents\visual studio 2013\Projects\mcmFileReader\mcmFileReader\bin\Release\mcmFileReader.exe.config
-C:\Users\Andrey\documents\visual studio 2013\Projects\mcmFileReader\mcmFileReader\bin\Release\mcmFileReader.exe
-C:\Users\Andrey\documents\visual studio 2013\Projects\mcmFileReader\mcmFileReader\bin\Release\mcmFileReader.pdb
-C:\Users\Andrey\documents\visual studio 2013\Projects\mcmFileReader\mcmFileReader\obj\Release\mcmFileReader.Form1.resources
-C:\Users\Andrey\documents\visual studio 2013\Projects\mcmFileReader\mcmFileReader\obj\Release\mcmFileReader.Properties.Resources.resources
-C:\Users\Andrey\documents\visual studio 2013\Projects\mcmFileReader\mcmFileReader\obj\Release\mcmFileReader.csproj.GenerateResource.Cache
-C:\Users\Andrey\documents\visual studio 2013\Projects\mcmFileReader\mcmFileReader\obj\Release\mcmFileReader.exe
-C:\Users\Andrey\documents\visual studio 2013\Projects\mcmFileReader\mcmFileReader\obj\Release\mcmFileReader.pdb
