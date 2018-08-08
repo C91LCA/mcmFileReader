@@ -1,0 +1,9 @@
+c:\users\andrey\documents\visual studio 2013\Projects\mcmFileReader\mcmFileReader\bin\Debug\mcmFileReader.exe.config
+c:\users\andrey\documents\visual studio 2013\Projects\mcmFileReader\mcmFileReader\bin\Debug\mcmFileReader.exe
+c:\users\andrey\documents\visual studio 2013\Projects\mcmFileReader\mcmFileReader\bin\Debug\mcmFileReader.pdb
+c:\users\andrey\documents\visual studio 2013\Projects\mcmFileReader\mcmFileReader\obj\Debug\mcmFileReader.csprojResolveAssemblyReference.cache
+c:\users\andrey\documents\visual studio 2013\Projects\mcmFileReader\mcmFileReader\obj\Debug\mcmFileReader.Form1.resources
+c:\users\andrey\documents\visual studio 2013\Projects\mcmFileReader\mcmFileReader\obj\Debug\mcmFileReader.Properties.Resources.resources
+c:\users\andrey\documents\visual studio 2013\Projects\mcmFileReader\mcmFileReader\obj\Debug\mcmFileReader.csproj.GenerateResource.Cache
+c:\users\andrey\documents\visual studio 2013\Projects\mcmFileReader\mcmFileReader\obj\Debug\mcmFileReader.exe
+c:\users\andrey\documents\visual studio 2013\Projects\mcmFileReader\mcmFileReader\obj\Debug\mcmFileReader.pdb
