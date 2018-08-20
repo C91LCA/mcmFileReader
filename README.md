@@ -15,7 +15,7 @@ program that can show contents of mcm file (max7456 charset file)
 ## feature demo and how to use
 - open using commnad-line argument
 
-![ex8.png](https://raw.githubusercontent.com/C91LCA/mcmFileReader/master/ex_a/ex1.png "open using commandLineArgs")
+![ex8.png](https://raw.githubusercontent.com/C91LCA/mcmFileReader/master/ex_a/ex8.png "open using commandLineArgs")
 ![ex1.png](https://raw.githubusercontent.com/C91LCA/mcmFileReader/master/ex_a/ex1.png "open using commandLineArgs")
 
 - open drag-drop file
